@@ -7,7 +7,7 @@ for (var i = 0; i < numberOfDrumsButtons; i++) {
 
     switch (buttonInnerHTML) {
       case "w":
-        var tom3 = new Audio('sounds/tom3.mp3');
+        var tom3 = new Audio('sounds/tom-3.mp3');
         tom3.play();
         break;
       case "a":
